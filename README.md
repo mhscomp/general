@@ -1,4 +1,4 @@
-#MHS Robotics/Computer Club#
+#MHS Robotics Club#
 
 <img src="http://www.jeffpalm.com/fox/fox.jpg">
 
@@ -9,6 +9,14 @@ Meetings are after school on Thursdays in room A207 (Dr. Futcher's room). The in
 <i>If possible, bring your own computer for meetings (not the informational meeting).</i>
 
 Check out some [resources](resources.md).
+
+###Get started###
+<ol>
+	<li>Get a Github account</li>
+	<li>Request an invite for "MHSComp"</li>
+	<li>Learn <a href="git.md">the basics</a></li>
+</ol>
+
 ###What We'll Do###
 <b>Android Programming</b></br>
 Requires more programming knowledge. Basic knowledge of Java is helpful.

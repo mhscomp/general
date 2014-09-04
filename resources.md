@@ -1,5 +1,4 @@
-#MHS Robotics/Computer Club#
-###Resources###
+#MHS Robotics Club: Resources#
 
 <b>General</b></br>
 Some general sites for programming help

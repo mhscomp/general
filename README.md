@@ -14,7 +14,7 @@ Check out some [resources](resources.md).
 <ol>
 	<li>Get a Github account</li>
 	<li>Request an invite for "MHSComp"</li>
-	<li>Learn <a href="lessons/git/overview.md">the basics</a></li>
+	<li>Learn <a href="lessons/git_lesson/overview.md">the basics</a></li>
 </ol>
 
 ###What We'll Do###

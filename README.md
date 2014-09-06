@@ -8,12 +8,13 @@ Meetings are after school on Thursdays in room A207 (Dr. Futcher's room). The in
 
 <i>If possible, bring your own computer for meetings (not the informational meeting).</i>
 
-Check out some [resources](resources.md).
+Check out some [resources](resources/overview.md).
 
 ###Get started###
 <ol>
 	<li>Get a Github account</li>
 	<li>Request an invite for "MHSComp"</li>
+	<li>Grab <a href="tools/overview.md">some tools</a>
 	<li>Learn <a href="lessons/git_lesson/overview.md">the basics</a></li>
 </ol>
 

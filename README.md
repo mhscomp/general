@@ -17,6 +17,11 @@ Check out some [resources](resources.md).
 	<li>Learn <a href="lessons/git_lesson/overview.md">the basics</a></li>
 </ol>
 
+###Notes###
+<ul>
+	<li><a href="lessons/git_lesson/overview.md">Git</a></li>
+</ul>
+
 ###What We'll Do###
 <b>Android Programming</b></br>
 Requires more programming knowledge. Basic knowledge of Java is helpful.

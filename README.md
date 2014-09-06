@@ -20,6 +20,7 @@ Check out some [resources](resources.md).
 ###Notes###
 <ul>
 	<li><a href="lessons/git_lesson/overview.md">Git</a></li>
+	<li><a href="lessons/openshift/overview.md">OpenShift (make your own website!)</a></li>
 </ul>
 
 ###What We'll Do###

@@ -16,6 +16,7 @@ Check out some [resources](resources/overview.md).
 	<li>Request an invite for "MHSComp"</li>
 	<li>Grab <a href="tools/overview.md">some tools</a>
 	<li>Learn <a href="lessons/git_lesson/overview.md">the basics</a></li>
+	<li>Choose <a href="lessons/languages/overview.md">A language</a></li>
 </ol>
 
 ###Notes###

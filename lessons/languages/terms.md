@@ -122,7 +122,7 @@ HTTP is a protocol with which client and server side code can communicate. Think
 
 This is done through several functions, including `POST` and `GET`.
 
-<b>Onwards!</b>
+<b>Onwards!</b><br/>
 <i>Option 1: <a href="server.md">Server-side languages</a></i><br/>
 <i>Option 2: <a href="client.md">Client-side languages</a></i><br/>
 <i>Option 3: <a href="compile.md">Compiling Languages</a></b><br/>

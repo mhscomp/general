@@ -10,7 +10,7 @@ $ git
 ```
 
 
-If you see a readout of a bunch of commands, it means Git is installed and you're good to go; skip down to the section titled *Initial Git Configuration*.
+If you see a readout of a bunch of commands, it means Git is installed. In that case, go <a href="config.md">here</a>
 
 *Git is installed:*
 

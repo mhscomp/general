@@ -29,4 +29,5 @@ HTTP is a protocol with which client and server side code can communicate. Think
 
 <b>Option 1: <a href="server.md">Server-side languages</a></b><br/>
 <b>Option 2: <a href="client.md">Client-side languages</a></b><br/>
-<b>Option 3: <a href="compile.md">Other languages</a></b>
+<b>Option 3: <a href="compile.md">Compiling Languages</a></b><br/>
+<b>Option 4: <a href="other.md">Other languages</a></b>

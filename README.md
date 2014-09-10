@@ -23,7 +23,7 @@ Check out some [resources](resources/overview.md).
 <ul>
 	<li><a href="lessons/git_lesson/overview.md">Git</a></li>
 	<li><a href="lessons/openshift/overview.md">OpenShift (make your own website!)</a></li>
-	<li><a href="lessons/ios/overview.md">Develop iOS apps</a></li>
+	<li><a href="lessons/ios/overview.md">Develop iOS apps</a> or <a href="lessons/ios/walkthrough.md">See a walkthrough</a></li>
 </ul>
 
 ###What We'll Do###

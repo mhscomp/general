@@ -1,4 +1,4 @@
-#MHS Computer/Robotics Club#
+#MHS Robotics Club#
 
 <img src="http://www.jeffpalm.com/fox/fox.jpg">
 

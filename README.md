@@ -23,10 +23,20 @@ Check out some [resources](resources/overview.md).
 <ul>
 	<li><a href="lessons/git_lesson/overview.md">Git</a></li>
 	<li><a href="lessons/openshift/overview.md">OpenShift (make your own website!)</a></li>
-	<li><a href="lessons/ios/overview.md">Develop iOS apps</a> or <a href="lessons/ios/walkthrough.md">See a walkthrough</a></li>
+	<li>
+	    <a href="lessons/ios/overview.md">Develop iOS apps</a>
+	    <ul>
+	        <li>
+	            <a href="lessons/ios/walkthrough.md">See a basic walkthrough</a>
+	        </li>
+	    </ul>
+	    
+    </li>
 </ul>
 
 ###What We'll Do###
+It's important to know that this is mostly student-run, so projects and flexible. Our course of action is determined by the members.
+
 <b>Android Programming</b></br>
 Requires more programming knowledge. Basic knowledge of Java is helpful.
 
@@ -50,3 +60,9 @@ Run a computer literacy course for elders. Helps the community, and looks good o
 
 <b>Recycling</b><br/>
 Learn how computers and recycled and then put your knowledge to use.
+
+###Contact###
+Questions?
+
+Dr. Futcher: _futcher.edward@marbleheadschools.org_ 
+Michael Kaminsky: _mkaminsky11@gmail.com_

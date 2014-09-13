@@ -13,7 +13,7 @@ Check out some [resources](resources/overview.md).
 ###Get started###
 <ol>
 	<li>Get a Github account</li>
-	<li>Request an invite for "MHSComp"</li>
+	<li>Email <i>mkaminsky11@gmail.com</i> for an invite to the MHSComp group </li>
 	<li>Grab <a href="tools/overview.md">some tools</a>
 	<li>Learn <a href="lessons/git_lesson/overview.md">the basics</a></li>
 	<li>Choose <a href="lessons/languages/overview.md">a language</a></li>
@@ -32,6 +32,10 @@ Check out some [resources](resources/overview.md).
 	    </ul>
 	    
     </li>
+    
+    <!--li>
+        <a href="lessons/java/overview.md">Get started with Java</a>
+    </li-->
 </ul>
 
 ###What We'll Do###

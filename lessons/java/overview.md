@@ -1,10 +1,6 @@
-#MHS Robotics Club: iOS Development#
+#MHS Robotics Club: Java Development#
 
 <b>Overview</b><br/>
-The iOS operating system has become extremely important  for its use in iPhones and iPads. 
+Java has become very popular for servers and Android applications. It is one of the most widely-used languages, and many introductory courses are taught in Java.
 
-Before you continue, know that <b>This Can Only Be Done on a Mac</b>. If you don't have one, you're out of luck.
-
-To see a walkthrough of a different example than the one shown here, see <a href="walkthrough.md">this page</a>.
-
-<b>Next Step: <a href="instal.md">Installation</a></b>
+<b>Next Step: <a href="install.md">Installation</a></b>

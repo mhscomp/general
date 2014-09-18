@@ -18,7 +18,7 @@ Check out some [resources](resources/overview.md).
 5. Choose [a language](lessons/languages/overview.md)
 
 ###Notes###
-+ [Applications with Python](lessons/java/overview.md) _(important!)_
++ [Applications with Python](lessons/python/overview.md) _(important!)_
 + [Git](lessons/git_lesson/overview.md)
 + [Openshift](lessons/openshift/overview.md) (make your own website!)
 + [Develop iOS apps](lessons/ios/overview.md)

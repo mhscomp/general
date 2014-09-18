@@ -1,6 +1,6 @@
 #MHS Robotics Club: Python#
 
-**Commands**
+**Commands**<br/>
 If you want to give a button a command, you have to declare it as a function.
 
 ```python
@@ -21,8 +21,7 @@ app = App(root)
 
 root.mainloop()
 ```
-**Creating a button**
-
+**Creating a button**<br/>
 Next, add the buttons.
 
 ```python
@@ -51,8 +50,7 @@ root.destroy()
 
 <img src="buttons_1.gif">
 
-**Closing the window**
-
+**Closing the window**<br/>
 The window can be closed using `self.frame.quit`.
 
 ```python

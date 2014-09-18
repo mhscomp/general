@@ -1,6 +1,6 @@
 #MHS Robotics Club: Python#
 
-**Classes**
+**Classes**<br/>
 The App will be build on a class called "app". A class can be assigned different values that can be assigned different values.
 
 To make a label:

@@ -1,22 +1,22 @@
 #MHS Robotics Club: Python#
 
-**Learning the basics**
+**Learning the basics**<br/>
 I highly recommend [code academy](http://www.codecademy.com/en/tracks/python) to learn the basics of python. Here's just a quick cheat sheet
 
-**Functions**
+**Functions**<br/>
 ```python
 def add(a,b):
     return a + b
 ```
 
-**Variables**
+**Variables**<br/>
 ```python
 some_variable = "something"
 some_int = 1
 some_number = 1.1
 ```
 
-**What this document is for**
+**What this document is for**<br/>
 We'll be covering GUI (Graphic User Interface) with Python. This means making desktop applications with Python, so you can do stuff like this:
 
 <img src="basics_1.png">

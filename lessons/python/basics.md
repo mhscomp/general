@@ -16,6 +16,11 @@ some_int = 1
 some_number = 1.1
 ```
 
+**Printing**<br/>
+```python
+print "hello world"
+```
+
 **What this document is for**<br/>
 We'll be covering GUI (Graphic User Interface) with Python. This means making desktop applications with Python, so you can do stuff like this:
 

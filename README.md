@@ -18,12 +18,12 @@ Check out some [resources](resources/overview.md).
 5. Choose [a language](lessons/languages/overview.md)
 
 ###Notes###
-+ [Applications with Python](lessons/python/overview.md) _(important!)_
++ [Project Euler](lessons/euler/overview.md) _important!_
++ [Applications with Python](lessons/python/overview.md)
 + [Git](lessons/git_lesson/overview.md)
-+ [Openshift](lessons/openshift/overview.md) (make your own website!)
++ [Openshift](lessons/openshift/overview.md)
 + [Develop iOS apps](lessons/ios/overview.md)
     + [See a basic walkthrough](lessons/ios/walkthrough.md)
-    + More complex one coming soon!
 	    
 + [Getting started with Java](lessons/java/overview.md)
 

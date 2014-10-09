@@ -27,6 +27,11 @@ Check out some [resources](resources/overview.md).
 	    
 + [Getting started with Java](lessons/java/overview.md)
 
+
+###OpenShift###
+1. install git
+2. run `git clone ssh://5436dd5be0b8cd4677000c9c@main-harvardp3.rhcloud.com/~/git/main.git/`
+
 ###What We'll Do###
 It's important to know that this is mostly student-run, so projects and flexible. Our course of action is determined by the members.
 
